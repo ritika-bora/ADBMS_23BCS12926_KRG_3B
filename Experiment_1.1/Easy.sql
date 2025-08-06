@@ -1,5 +1,5 @@
 /*
-Experiment - 1.1
+Experiment - 1.1 Easy
 Problem Title: Author-Book Relationship Using Joins and Basic SQL Operations
 
 Step-by-Step:
